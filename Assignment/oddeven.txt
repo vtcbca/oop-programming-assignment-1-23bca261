@@ -3,7 +3,7 @@ ID : 23BCA261 */
 
 #include<iostream.h>
 #include<conio.h>
-void main()
+int main()
 {
 	int n;
 	clrscr();
@@ -17,5 +17,6 @@ void main()
 	{
 		cout<<n<<" is Odd number";
 	}
+	return 0;
 	getch();
 }
